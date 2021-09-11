@@ -40,6 +40,9 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+scully.log
+.scully/
+/src/assets/scully-routes.json
 
 # System Files
 .DS_Store

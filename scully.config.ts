@@ -15,7 +15,7 @@ setPluginConfig(SitemapPlugin, {
 
 export const config: ScullyConfig = {
   projectRoot: './src',
-  projectName: 'example.com',
+  projectName: 'ng-ssg-sandbox',
   outDir: './dist/static', // directory for scully build artifacts
   defaultPostRenderers: [],
   routes: {},
